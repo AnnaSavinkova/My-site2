@@ -1,0 +1,1 @@
+<html><body><h1>Admin</h1><?php if(isset($content)) echo $content; ?></body></html>
