@@ -1,2 +1,0 @@
-<html><head><meta charset="utf-8"><link rel="stylesheet" href="/css/style.css"></head><body><?php include __DIR__ . '/../client/header.php'; ?>
-<?php if(isset($content)) echo $content; ?></body></html>
